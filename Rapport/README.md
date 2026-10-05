@@ -33,57 +33,6 @@ Comment intégrer Starlink comme lien WAN parmi d'autres, au sein d'une architec
 3. Évaluation : Quels indicateurs mesurables prouvent l'efficacité de l'intégration ?
 
 
-🏗️ Architecture
-
-# Schéma de la topologie
-
-┌─────────────────────────────────────────────────────────────┐
-│                    ZONE DE SUPERVISION                       │
-│  ┌─────────────┐  ┌─────────────┐                          │
-│  │   Zabbix    │  │   Grafana   │                          │
-│  └─────────────┘  └─────────────┘                          │
-│         │                                                   │
-│         │ (Collecte : Latence, RTO, Gigue)                  │
-│         ▼                                                   │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │              ZONE LAN (Utilisateur)                  │   │
-│  │  ┌─────────────┐  ┌─────────────────────────────┐   │   │
-│  │  │   Client    │  │   Téléphonie VOIP           │   │   │
-│  │  │ (Générateur │  │   (Flux critique)           │   │   │
-│  │  │  de trafic) │  │                             │   │   │
-│  │  └─────────────┘  └─────────────────────────────┘   │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                           │                                 │
-│                    Interface LAN                            │
-│                           │                                 │
-│                           ▼                                 │
-│              ┌─────────────────────────┐                    │
-│              │   ROUTEUR DUAL-WAN      │                    │
-│              │   (pfSense)             │                    │
-│              └─────────────────────────┘                    │
-│                    │              │                         │
-│         WAN 1      │              │      WAN 2              │
-│    (Fibre/LTE)     │              │   (Starlink)            │
-│         │          │              │      │                  │
-│         ▼          │              │      ▼                  │
-│  ┌─────────────┐   │              │  ┌─────────────────┐    │
-│  │  Émulateur  │   │              │  │  Émulateur      │    │
-│  │  Fibre      │   │              │  │  Starlink       │    │
-│  │  (VyOS R2)  │   │              │  │  (tc netem)     │    │
-│  │  Latence:   │   │              │  │  Latence:       │    │
-│  │  10ms       │   │              │  │  25-60ms        │    │
-│  │  Perte: 0%  │   │              │  │  Gigue, Coupures│    │
-│  └─────────────┘   │              │  └─────────────────┘    │
-│         │          │              │      │                  │
-│         └──────────┼──────────────┼──────┘                  │
-│                    │              │                         │
-│                    ▼              ▼                         │
-│              ┌─────────────────────────┐                    │
-│              │   INTERNET / CLOUD      │                    │
-│              │   (Serveur de test RTO) │                    │
-│              └─────────────────────────┘                    │
-└─────────────────────────────────────────────────────────────┘
-
 # Composants
 
 | Composant | Rôle | Technologie |
