@@ -44,7 +44,7 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 1. Cloner ce dépôt :
    ```bash
    git clone https://github.com/LielMakosso/starlink-multiwan-testbed.git
-
+   ```
 2. Configurer chaque équipement en se référant au dossier configs/
 
 3. Lancer les scripts de test depuis le dossier Scripts/
@@ -54,4 +54,19 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 ### Mesure du RTO (depuis zabbix-supervision)
 ```bash
 python3 scripts/rto_monitor.py --target 8.8.8.8 --interval 0.5 --output results/rto_demo_live.csv
+```
+### Simulation de coupures périodiques (depuis netem-wan2)
+```bash
+sudo ./scripts/periodic_outage.sh ens37 2 15 5
+```
+### Profil réseau dégradé (depuis netem-wan2)
+```bash
+tc qdisc replace dev ens37 root netem delay 80ms 25ms distribution normal loss 5%
+```
+
+### Restauration du profil normal
+```bash
+tc qdisc replace dev ens37 root netem delay 40ms 10ms distribution normal loss 1%
+```
+
 
