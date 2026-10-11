@@ -38,6 +38,7 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 - VyOS
 - Debian (pour Netem) 
 - Ubuntu (pour Zabbix)
+- python 3.10 (Scripts de mesure RTO)
 
 ## Installation et Reproductibilité
 
