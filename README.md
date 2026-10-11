@@ -6,7 +6,7 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 
 ## Architecture
 
-![Topologie](Topologie/topologie.png)
+![Topologie](Topologie/topologie_gns3.png)
 
 ### Plan d'adressage
 
