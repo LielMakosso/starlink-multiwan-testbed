@@ -12,12 +12,11 @@ La configuration est appliquée manuellement via la commande `tc`.
 ```bash
 tc qdisc replace dev ens37 root netem delay 40ms 10ms distribution normal loss 1%
 
-## Profil Dégradé (test 2)
+### Profil Dégradé (test 2)
 tc qdisc replace dev ens37 root netem delay 80ms 25ms distribution normal loss 5%
+
+## Scripts de test
+./periodic_outage.sh ens37 2 15 5
 
 ## Suppression de la configuration
 tc qdisc del dev ens37 root
-
-## Scripts de test
-
-./periodic_outage.sh ens37 2 15 5
