@@ -30,6 +30,17 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 | netem-wan2 | Debian 12 | 1 vCPU | 1 Go | 10 Go |
 | zabbix-supervision | Ubuntu 22.04 | 2 vCPU | 4 Go | 40 Go |
 
+### Caractéristiques de la machine hôte
+
+| Composant | Caractéristique |
+| :--- | :--- |
+| **Processeur** | Intel Core i7 (ou AMD Ryzen 7) - 8 cœurs |
+| **Mémoire RAM** | 16 Go DDR4 |
+| **Disque** | SSD NVMe 512 Go |
+| **Système d'exploitation** | Windows 10/11 (hôte) |
+| **Hyperviseur** | VMware Workstation Pro 17 |
+| **Réseau** | Carte Ethernet Gigabit |
+
 ## Prérequis
 
 - GNS3 (pour la topologie réseau)
