@@ -70,25 +70,13 @@ tc qdisc replace dev ens37 root netem delay 40ms 10ms distribution normal loss 1
 ```
 
 ### Résultats
-Test	RTO Moyen	Perte de paquets	Observations
-Profil Normal	~16 s	1%	Bascule fluide, VoIP priorisé
-Profil Dégradé	~15.85 s	5%	Latence plus élevée
-Coupures Périodiques	~8.43 s	Variable	Bascule répétée
+| Test | RTO Moyen | Perte de paquets | Observations |
+| :--- | :--- | :--- | :--- |
+| Profil Normal | ~16 s | 1% | Bascule fluide, VoIP priorisé |
+| Profil Dégradé | ~15.85 s | 5% | Latence plus élevée |
+| Coupures Périodiques | ~8.43 s | Variable | Bascule répétée |
 
 ### TCO (Coût Total de Possession)
 - Logiciels : 0 FCFA (tous Open Source)
 - Matériel : Machine hôte avec 16 Go RAM, 4 vCPU
   
-### Structure du dépôt
-starlink-multiwan-testbed/
-├── Rapport/                  # Rapport de projet
-├── Test/                     # Tests et validations
-├── Topologie/                # Schémas de topologie
-├── Scripts/                  # Scripts Python et Bash
-├── results/                  # Résultats des tests (CSV)
-├── configs/                  # Configurations des équipements
-│   ├── netem-wan2/
-│   ├── vyos-r2/
-│   ├── pfsense/
-│   └── zabbix-supervision/
-└── README.md
