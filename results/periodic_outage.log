@@ -1,0 +1,474 @@
+[2026-09-25T03:34:06+00:00] === Démarrage simulation coupures périodiques ===
+[2026-09-25T03:34:06+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-09-25T03:34:06+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-09-25T03:34:21+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-09-25T03:34:23+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-09-25T03:34:38+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-09-25T03:34:40+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-09-25T03:34:55+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-09-25T03:34:57+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-09-25T03:35:12+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-09-25T03:35:14+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-09-25T03:35:18+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-09-25T03:35:18+00:00] === Fin de la simulation ===
+[2026-10-02T19:01:30+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:01:30+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:01:30+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:01:45+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:01:47+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:02:02+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:02:04+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:02:19+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:02:21+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:02:36+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:02:38+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:02:53+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:02:56+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:02:56+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:02:56+00:00] === Fin de la simulation ===
+[2026-10-02T19:03:22+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:03:22+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:03:22+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:03:37+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:03:39+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:03:54+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:03:57+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:04:12+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:04:14+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:04:29+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:04:31+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:04:46+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:04:48+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:04:48+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:04:48+00:00] === Fin de la simulation ===
+[2026-10-02T19:28:30+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:28:30+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:28:30+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:28:45+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:28:47+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:29:02+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:29:04+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:29:19+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:29:21+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:29:36+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:29:38+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:29:42+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:29:42+00:00] === Fin de la simulation ===
+[2026-10-02T19:30:56+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:30:56+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:30:56+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:31:11+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:31:13+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:31:28+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:31:30+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:31:45+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:31:47+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:32:02+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:32:04+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:32:19+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:32:21+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:32:21+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:32:21+00:00] === Fin de la simulation ===
+[2026-10-02T19:36:29+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:36:29+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:36:29+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:36:44+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:36:46+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:37:01+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:37:03+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:37:19+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:37:21+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:37:36+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:37:38+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:37:53+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:37:55+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:37:55+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:37:55+00:00] === Fin de la simulation ===
+[2026-10-02T19:39:03+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:39:03+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:39:03+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:39:18+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:39:20+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:39:35+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:39:37+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:39:52+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:39:54+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:40:09+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:40:11+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:40:26+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:40:28+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:40:28+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:40:28+00:00] === Fin de la simulation ===
+[2026-10-02T19:41:11+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:41:11+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:41:11+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:41:26+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:41:28+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T19:41:43+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T19:41:45+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T19:42:00+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T19:42:02+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T19:42:17+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T19:42:19+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T19:42:34+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T19:42:36+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T19:42:36+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:42:36+00:00] === Fin de la simulation ===
+[2026-10-02T19:47:25+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T19:47:25+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T19:47:25+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T19:47:40+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T19:47:41+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T19:47:41+00:00] === Fin de la simulation ===
+[2026-10-02T20:05:37+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:05:37+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:05:37+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:05:52+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:05:54+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T20:06:09+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T20:06:11+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T20:06:26+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T20:06:28+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T20:06:43+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T20:06:45+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T20:07:00+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T20:07:02+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T20:07:02+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T20:07:02+00:00] === Fin de la simulation ===
+[2026-10-02T20:09:21+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:09:21+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:09:21+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:09:36+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:09:38+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T20:09:53+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T20:09:55+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T20:10:10+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T20:10:13+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T20:10:28+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T20:10:30+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T20:10:45+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T20:10:47+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T20:10:47+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T20:10:47+00:00] === Fin de la simulation ===
+[2026-10-02T20:31:03+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:31:03+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:31:03+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:31:18+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:31:20+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T20:31:35+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T20:31:37+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T20:31:52+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T20:31:54+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T20:32:09+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T20:32:23+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T20:45:06+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T20:45:08+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T20:45:08+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T20:45:08+00:00] === Fin de la simulation ===
+[2026-10-02T20:54:02+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:54:02+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:54:02+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:54:17+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:54:19+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T20:54:34+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T20:54:36+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T20:54:51+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T20:54:53+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T20:55:08+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T20:55:10+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T20:55:25+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T20:55:27+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T20:55:27+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T20:55:27+00:00] === Fin de la simulation ===
+[2026-10-02T20:56:12+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:56:12+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:56:12+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:56:27+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:56:29+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T20:56:44+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T20:56:46+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T20:57:01+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T20:57:03+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T20:57:08+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T20:57:08+00:00] === Fin de la simulation ===
+[2026-10-02T20:59:33+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T20:59:33+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T20:59:33+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T20:59:48+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T20:59:50+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:00:05+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:00:07+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:00:08+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:00:08+00:00] === Fin de la simulation ===
+[2026-10-02T21:01:13+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:01:13+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:01:13+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:01:28+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:01:30+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:01:45+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:01:47+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:02:02+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:02:04+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:02:19+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:02:21+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:02:36+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:02:38+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:02:38+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:02:39+00:00] === Fin de la simulation ===
+[2026-10-02T21:23:52+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:23:52+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:23:52+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:24:07+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:24:09+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:24:24+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:24:26+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:24:41+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:24:43+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:24:58+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:25:00+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:25:15+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:25:17+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:25:17+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:25:17+00:00] === Fin de la simulation ===
+[2026-10-02T21:25:50+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:25:50+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:25:50+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:26:05+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:26:07+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:26:22+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:26:24+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:26:39+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:26:41+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:26:56+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:26:58+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:27:13+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:27:15+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:27:15+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:27:15+00:00] === Fin de la simulation ===
+[2026-10-02T21:27:56+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:27:56+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:27:56+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:28:11+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:28:13+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:28:29+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:28:31+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:28:46+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:28:48+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:29:03+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:29:05+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:29:20+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:29:22+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:29:22+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:29:22+00:00] === Fin de la simulation ===
+[2026-10-02T21:37:13+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:37:13+00:00] Interface: ens37 | Durée coupure: 4s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:37:13+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:37:20+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:37:20+00:00] === Fin de la simulation ===
+[2026-10-02T21:37:22+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:37:22+00:00] Interface: ens37 | Durée coupure: 4s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:37:22+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:37:37+00:00] 🔴 COUPURE #1 — début (durée 4s)
+[2026-10-02T21:37:41+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:37:56+00:00] 🔴 COUPURE #2 — début (durée 4s)
+[2026-10-02T21:38:00+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:38:15+00:00] 🔴 COUPURE #3 — début (durée 4s)
+[2026-10-02T21:38:19+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:38:34+00:00] 🔴 COUPURE #4 — début (durée 4s)
+[2026-10-02T21:38:38+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:38:53+00:00] 🔴 COUPURE #5 — début (durée 4s)
+[2026-10-02T21:38:57+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:38:57+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:38:57+00:00] === Fin de la simulation ===
+[2026-10-02T21:45:25+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:45:25+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:45:25+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:45:40+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:45:42+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:45:57+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:45:59+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:46:14+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:46:16+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:46:31+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:46:33+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:46:48+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:46:50+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:46:50+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:46:50+00:00] === Fin de la simulation ===
+[2026-10-02T21:56:42+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:56:42+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:56:42+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:56:57+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:56:59+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:57:14+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:57:16+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:57:31+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T21:57:33+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T21:57:48+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T21:57:50+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T21:58:05+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T21:58:07+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T21:58:07+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T21:58:07+00:00] === Fin de la simulation ===
+[2026-10-02T21:59:08+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-02T21:59:08+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-02T21:59:08+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-02T21:59:23+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-02T21:59:25+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-02T21:59:40+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-02T21:59:43+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-02T21:59:58+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-02T22:00:00+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-02T22:00:15+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-02T22:00:17+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-02T22:00:32+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-02T22:00:34+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-02T22:00:34+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-02T22:00:34+00:00] === Fin de la simulation ===
+[2026-10-05T15:18:20+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:18:20+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T15:18:20+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:18:35+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T15:18:37+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:18:52+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T15:18:54+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:19:09+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T15:19:11+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:19:26+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T15:19:28+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T15:19:43+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T15:19:45+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T15:19:45+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-05T15:19:45+00:00] === Fin de la simulation ===
+[2026-10-05T15:22:44+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:22:44+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T15:22:44+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:22:59+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T15:23:01+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:23:16+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T15:23:18+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:23:33+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T15:23:35+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:23:50+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T15:23:52+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T15:24:07+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T15:24:09+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T15:24:09+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-05T15:24:09+00:00] === Fin de la simulation ===
+[2026-10-05T15:25:29+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:25:29+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T15:25:29+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:25:44+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T15:25:46+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:26:01+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T15:26:03+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:26:18+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T15:26:20+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:26:35+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T15:26:37+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T15:26:52+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T15:26:54+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T15:26:54+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-05T15:26:54+00:00] === Fin de la simulation ===
+[2026-10-05T15:32:34+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:32:34+00:00] Interface: ens37 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T15:32:34+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:32:49+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T15:32:52+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:33:07+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T15:33:09+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:33:24+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T15:33:26+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:33:41+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T15:33:43+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T15:33:58+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T15:34:00+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T15:34:00+00:00] Arrêt demandé — restauration de l'état normal sur ens37
+[2026-10-05T15:34:00+00:00] === Fin de la simulation ===
+[2026-10-05T15:35:21+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:35:22+00:00] Interface: ens33 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T15:35:22+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:35:37+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T15:35:39+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:35:54+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T15:35:56+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:36:11+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T15:36:13+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:36:28+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T15:36:30+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T15:36:45+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T15:36:47+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T15:36:47+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T15:36:47+00:00] === Fin de la simulation ===
+[2026-10-05T15:43:39+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:43:39+00:00] Interface: ens33 | Durée coupure: 5s | Intervalle: 15s | Cycles: 3
+[2026-10-05T15:43:39+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:43:54+00:00] 🔴 COUPURE #1 — début (durée 5s)
+[2026-10-05T15:43:59+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:44:15+00:00] 🔴 COUPURE #2 — début (durée 5s)
+[2026-10-05T15:44:20+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:44:35+00:00] 🔴 COUPURE #3 — début (durée 5s)
+[2026-10-05T15:44:40+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:44:40+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T15:44:40+00:00] === Fin de la simulation ===
+[2026-10-05T15:47:32+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:47:32+00:00] Interface: ens33 | Durée coupure: 5s | Intervalle: 15s | Cycles: 3
+[2026-10-05T15:47:32+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:47:34+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T15:47:34+00:00] === Fin de la simulation ===
+[2026-10-05T15:48:37+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T15:48:37+00:00] Interface: ens33 | Durée coupure: 5s | Intervalle: 15s | Cycles: 3
+[2026-10-05T15:48:37+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T15:48:52+00:00] 🔴 COUPURE #1 — début (durée 5s)
+[2026-10-05T15:48:57+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T15:49:12+00:00] 🔴 COUPURE #2 — début (durée 5s)
+[2026-10-05T15:49:17+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T15:49:32+00:00] 🔴 COUPURE #3 — début (durée 5s)
+[2026-10-05T15:49:37+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T15:49:37+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T15:49:37+00:00] === Fin de la simulation ===
+[2026-10-05T16:41:41+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T16:41:41+00:00] Interface: ens33 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T16:41:41+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T16:41:56+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T16:41:58+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T16:42:13+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T16:42:15+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T16:42:30+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T16:42:32+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T16:42:47+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T16:42:49+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T16:43:04+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T16:43:06+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T16:43:06+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T16:43:06+00:00] === Fin de la simulation ===
+[2026-10-05T17:24:59+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T17:24:59+00:00] Interface: ens33 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T17:24:59+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T17:25:14+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T17:25:16+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T17:25:31+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T17:25:33+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T17:25:48+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T17:25:50+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T17:26:05+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T17:26:07+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T17:26:22+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T17:26:24+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T17:26:24+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T17:26:24+00:00] === Fin de la simulation ===
+[2026-10-05T19:43:45+00:00] === Démarrage simulation coupures périodiques ===
+[2026-10-05T19:43:46+00:00] Interface: ens33 | Durée coupure: 2s | Intervalle: 15s | Cycles: 5
+[2026-10-05T19:43:46+00:00] État initial: lien normal appliqué (delay=40ms 10ms distribution normal loss=1%)
+[2026-10-05T19:44:01+00:00] 🔴 COUPURE #1 — début (durée 2s)
+[2026-10-05T19:44:03+00:00] 🟢 COUPURE #1 — fin, lien normal restauré
+[2026-10-05T19:44:18+00:00] 🔴 COUPURE #2 — début (durée 2s)
+[2026-10-05T19:44:20+00:00] 🟢 COUPURE #2 — fin, lien normal restauré
+[2026-10-05T19:44:35+00:00] 🔴 COUPURE #3 — début (durée 2s)
+[2026-10-05T19:44:37+00:00] 🟢 COUPURE #3 — fin, lien normal restauré
+[2026-10-05T19:44:52+00:00] 🔴 COUPURE #4 — début (durée 2s)
+[2026-10-05T19:44:54+00:00] 🟢 COUPURE #4 — fin, lien normal restauré
+[2026-10-05T19:45:09+00:00] 🔴 COUPURE #5 — début (durée 2s)
+[2026-10-05T19:45:11+00:00] 🟢 COUPURE #5 — fin, lien normal restauré
+[2026-10-05T19:45:11+00:00] Arrêt demandé — restauration de l'état normal sur ens33
+[2026-10-05T19:45:11+00:00] === Fin de la simulation ===
