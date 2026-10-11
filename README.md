@@ -30,6 +30,26 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
 | netem-wan2 | Debian 12 | 1 vCPU | 1 Go | 10 Go |
 | zabbix-supervision | Ubuntu 22.04 | 2 vCPU | 4 Go | 40 Go |
 
+
+### Caractéristiques détaillées des équipements virtuels
+
+| Équipement | Version | Interfaces réseau | Rôle |
+| :--- | :--- | :--- | :--- |
+| **pfSense** | CE 2.7.0 | 3 (LAN, WAN1, OPT1) | Pare-feu, routeur, QoS |
+| **VyOS-R2** | 1.4 | 2 (eth0, eth1) + lo | Routeur FAI simulé, OSPF |
+| **netem-wan2** | Debian 12 | 2 (ens33, ens37) | Simulation réseau dégradé |
+| **zabbix-supervision** | Ubuntu 22.04 | 1 (ens33) | Supervision, scripts RTO |
+
+### Logiciels et outils utilisés
+
+| Logiciel | Version | Utilisation |
+| :--- | :--- | :--- |
+| GNS3 | 2.2.40 | Émulation de la topologie réseau |
+| VMware Workstation | 17 | Virtualisation des VMs |
+| Zabbix | 6.4 | Supervision réseau |
+| Python | 3.10 | Scripts de mesure RTO |
+| tc (iproute2) | - | Configuration Netem (QoS) |
+
 ### Caractéristiques de la machine hôte
 
 | Composant | Caractéristique |
