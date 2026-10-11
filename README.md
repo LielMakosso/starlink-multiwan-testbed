@@ -45,10 +45,13 @@ Ce projet vise à valider la mise en place d'une architecture MultiWAN avec basc
    ```bash
    git clone https://github.com/LielMakosso/starlink-multiwan-testbed.git
 
-
 2. Configurer chaque équipement en se référant au dossier configs/
 
 3. Lancer les scripts de test depuis le dossier Scripts/
 
+##  Commandes de lancement des tests
 
-- Matériel : Machine hôte avec 16 Go RAM, 4 vCPU
+### Mesure du RTO (depuis zabbix-supervision)
+```bash
+python3 scripts/rto_monitor.py --target 8.8.8.8 --interval 0.5 --output results/rto_demo_live.csv
+
